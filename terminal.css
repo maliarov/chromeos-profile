@@ -103,5 +103,5 @@
 }
 
 html {
-  --hterm-charsize-height: 16.375px; 
+  --hterm-charsize-height: 16.375px !important; 
 }
